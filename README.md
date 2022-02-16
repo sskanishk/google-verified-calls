@@ -5,6 +5,7 @@ Businesses call millions of consumers every day, but many consumers don't answer
 
 The Verified Calls feature in the Phone app increases call answer rates, builds trust, and helps consumers by presenting calls from legitimate businesses with verification, branding, and call reasons.
 
+![Screenshot 2021-11-06 at 12 51 09 PM](https://user-images.githubusercontent.com/29313203/140601819-50ceb945-a62c-43a0-b90d-de930442834b.png)
 
 ## Prerequisite
 You must have verified call partner setup and in order to test here active agent also required.
